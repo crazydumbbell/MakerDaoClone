@@ -1,7 +1,7 @@
 const Main2 = () => {
     return (
         <div className="flex h-[600px] mt-16">
-        <div class="w-full sc-bZQynM kEPHzX sc-ckVGcZ kTsedh front-layer flex justify-center items-center border bg-gradient-to-r from-yellow-500 to-pink-500">
+        <div class="w-full sc-bZQynM kEPHzX sc-ckVGcZ kTsedh front-layer flex justify-center items-center bg-gradient-to-r from-yellow-500 to-pink-500">
           <svg
             class="dai-icon"
             width="177"
